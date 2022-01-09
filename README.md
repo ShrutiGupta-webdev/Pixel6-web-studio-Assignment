@@ -1,1 +1,2 @@
-# Pixel6-web-studio-Assignment
+# Pixel6-Assignment
+Pixel6 Assignment repo

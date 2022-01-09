@@ -1,0 +1,74 @@
+*{ font-family:sans-serif;}
+
+.mainbodystyle{
+background: -webkit-linear-gradient(#50CB93, #54436B );
+height: 90vh;
+margin:-10px;
+}
+h1{
+  color: white;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.far1{
+text-align: center;
+font-weight: bold;
+font-size: 2rem;
+padding: 10px;
+margin-left:40px;}
+
+
+.form {
+  font-size: 95% ;
+  line-height: 1em;
+  width: 400px;
+  border-radius: 20px;
+  margin-top: 20px ;
+  margin-left: 450px;
+  padding: 40px;
+  background-color: #FFFDDE;
+  box-shadow: 10px 10px 20px 10px #54436B;
+  position: absolute;
+}
+.simlogo{
+   width: 25px;
+   height: 20px;
+}
+
+
+.textField {
+  display :block;
+  padding: 10px;
+  width: 80%;
+  margin: 5px 0px;
+  border-radius: 7px;
+  border: 1px solid #C06014;
+  background-color: rgb(241, 241, 190);
+}
+.phone_number {
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+}
+.phone_detail {
+  display: flex;
+  align-items: center;
+}
+#error {
+  color: red,
+}
+.btn{
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 15px 30px;
+  background-color: #516BEB;
+  margin-left: 130px;
+  margin-top: 20px;
+}
+button:hover{
+  background-color: #6ECB63;
+}
